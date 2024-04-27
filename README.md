@@ -15,6 +15,5 @@ I coded this project in Python 3.12. Python is an object oriented high-level pro
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Python](https://www.python.org/)
 * [Visual Studio Code](https://code.visualstudio.com/)
